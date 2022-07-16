@@ -9,3 +9,5 @@ for an Awesome Startup employee directory.
 # Style Modifications
 * Changed body background color
 * Changed card border color
+
+[Live Preview](https://getoarm.github.io/public-api-request/)
