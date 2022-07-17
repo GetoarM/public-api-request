@@ -77,14 +77,22 @@ function openModal(index){
 
 // Next modal function onclick
 function nextModal(index) {
-    index++;
-    displayModal(index);
+    if (index === 11){
+        displayModal(0);
+    } else {
+        index++;
+        displayModal(index);
+    }
 }
 
 // Previous modal function onclick
 function prevModal(index) {
-    index--
-    displayModal(index);
+    if (index === 0){
+        displayModal(11);
+    } else {
+        index--;
+        displayModal(index);
+    }
 }
 
 // Display & append searchBar Container
