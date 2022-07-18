@@ -8,6 +8,10 @@ for an Awesome Startup employee directory.
 
 # Style Modifications
 * Changed body background color
-* Changed card border color
+* Changed 'card' color
+* Removed border 'card' style
+* Added shadow box on 'cards'
+* Added transfom scale on hover for 'cards'
+* Changed font family, color etc.
 
 [Live Preview](https://getoarm.github.io/public-api-request/)
