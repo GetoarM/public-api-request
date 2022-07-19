@@ -14,4 +14,4 @@ for an Awesome Startup employee directory.
 * Added transfom scale on hover for 'cards'
 * Changed font family, color etc.
 
-[Live Preview](https://getoarm.github.io/public-api-request/)
+[Live Preview](https://getoarmorina3.github.io/public-api-request/)
